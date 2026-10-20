@@ -1,0 +1,1 @@
+{"name":"personal-website","private":true,"scripts":{"build":"node scripts/build.mjs","typecheck":"node scripts/build.mjs --noEmit","preview":"python3 -m http.server 8000 --directory public --bind 0.0.0.0"},"devDependencies":{"typescript":"5.9.3"}}
