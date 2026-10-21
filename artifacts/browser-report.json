@@ -1,0 +1,136 @@
+{
+  "result": "passed",
+  "viewports_checked": [
+    320,
+    375,
+    390,
+    768,
+    1024,
+    1440
+  ],
+  "screenshots": [
+    "desktop.png",
+    "mobile.png"
+  ],
+  "console_errors": [],
+  "request_failures": [],
+  "resources": [
+    {
+      "url": "http://127.0.0.1:8000/",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8000/styles.css",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8000/assets/main.js",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8000/assets/content.js",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8000/favicon.svg",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8000/favicon.svg",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8000/favicon.svg",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8000/favicon.svg",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8000/",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8000/styles.css",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:8000/assets/main.js",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:8000/assets/content.js",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:8000/favicon.svg",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8000/favicon.svg",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8000/favicon.svg",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8000/favicon.svg",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8000/favicon.svg",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8000/",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8000/styles.css",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:8000/assets/main.js",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:8000/assets/content.js",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:8000/favicon.svg",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8000/favicon.svg",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8000/favicon.svg",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8000/favicon.svg",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8000/favicon.svg",
+      "status": 200
+    }
+  ],
+  "checks": [
+    "TypeScript module loading",
+    "English visible text",
+    "semantic landmarks",
+    "anchor targets",
+    "desktop and mobile navigation",
+    "hero actions",
+    "keyboard skip link and focus outline",
+    "reduced motion",
+    "horizontal overflow",
+    "contact and repository URLs",
+    "JavaScript-disabled contact fallback"
+  ]
+}
